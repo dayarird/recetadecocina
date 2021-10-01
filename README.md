@@ -27,6 +27,6 @@ Añadir la harina sin dejar de remover.
 Ponerlo en una cazuela con el caldo, el tomillo y el laurel.
 Dejar cocer a fuego lento durante unos 15 minutos. -Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.
 
-#### Toda esta información la introduje utilizando etiquetas <> </> y quedó de la siguiente manera:
+#### Toda esta información la introduje utilizando etiquetas <> para el inicio y </> para cerrar dicho cierre y quedó de la siguiente manera:
 
 ![VirtualBox_DayaRd clonar_01_10_2021_16_43_40](https://user-images.githubusercontent.com/91153603/135650862-62e83fd4-a17d-4677-ae01-46495947f2a5.png)
