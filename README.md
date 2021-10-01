@@ -2,6 +2,8 @@
 
 ### Dayarí Rodríguez Delgado. 1º DAM.
 
+![image](https://user-images.githubusercontent.com/91153603/135651967-35150395-c741-4734-858d-dcabb464e669.png)
+
 #### La tarea consiste en realizar una receta de cocina en Sublime text en la máquina virtual. En este caso se trata de Sopa de Cebolla para 4 personas:
 
 Sopa de cebolla (4 personas)
